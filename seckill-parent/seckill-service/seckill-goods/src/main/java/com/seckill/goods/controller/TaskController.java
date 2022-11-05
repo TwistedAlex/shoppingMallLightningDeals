@@ -24,7 +24,7 @@ import java.util.Date;
 import java.util.List;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Description: com.seckill.goods.controller.TaskController
  ****/
 @RestController

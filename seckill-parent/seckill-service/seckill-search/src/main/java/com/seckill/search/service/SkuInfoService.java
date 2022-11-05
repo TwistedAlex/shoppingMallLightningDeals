@@ -6,7 +6,7 @@ import org.springframework.data.domain.Page;
 import java.util.Map;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Project: seckillproject
  * @Description: com.seckill.search.service.SkuInfoService
  ****/

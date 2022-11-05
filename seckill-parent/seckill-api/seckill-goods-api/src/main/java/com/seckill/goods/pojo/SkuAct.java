@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /****
- * @Author:www.itheima.com
+ * @Author:TwistedAlex
  * @Description:SkuAct构建
  * @Date  19:13
  *****/

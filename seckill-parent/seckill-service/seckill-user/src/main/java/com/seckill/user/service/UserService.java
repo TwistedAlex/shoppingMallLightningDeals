@@ -6,7 +6,7 @@ import com.seckill.user.pojo.User;
 import java.util.List;
 
 /****
- * @Author:www.itheima.com
+ * @Author:TwistedAlex
  * @Description:User业务层接口
  * @Date  0:16
  *****/

@@ -4,7 +4,7 @@ import javax.persistence.*;
 import java.io.Serializable;
 
 /****
- * @Author:www.itheima.com
+ * @Author:TwistedAlex
  * @Description:Brand构建
  * @Date  19:13
  *****/

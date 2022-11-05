@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Description: com.seckill.monitor.MonitorTask
  ****/
 @Component

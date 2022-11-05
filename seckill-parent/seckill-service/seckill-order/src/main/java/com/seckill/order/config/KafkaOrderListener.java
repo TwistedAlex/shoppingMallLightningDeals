@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.util.Map;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Description: com.seckill.order.config.KafkaOrderListener
  ****/
 @Component

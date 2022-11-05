@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Bean;
 import org.yeauty.standard.ServerEndpointExporter;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Description: com.seckill.NettyWebSocketApplication
  ****/
 @SpringBootApplication(exclude = DataSourceAutoConfiguration.class)

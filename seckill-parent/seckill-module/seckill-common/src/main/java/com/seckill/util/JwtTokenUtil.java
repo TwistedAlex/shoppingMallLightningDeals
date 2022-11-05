@@ -14,7 +14,7 @@ import java.util.Map;
 import java.util.UUID;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Project: seckill
  * @Description: com.seckill.util.JwtTokenUtil
 

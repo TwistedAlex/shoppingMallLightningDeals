@@ -7,7 +7,7 @@ import java.io.IOException;
 
 /*****
  * http://localhost:18088/message/zs?msg=hello
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Description: com.seckill.websocket.controller.MessageController
  ****/
 @RestController

@@ -3,7 +3,7 @@ import com.seckill.goods.pojo.Order;
 import tk.mybatis.mapper.common.Mapper;
 
 /****
- * @Author:www.itheima.com
+ * @Author:TwistedAlex
  * @Description:Order的Dao
  * @Date  0:12
  *****/

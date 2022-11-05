@@ -10,7 +10,7 @@ import org.springframework.util.StringUtils;
 import tk.mybatis.mapper.entity.Example;
 import java.util.List;
 /****
- * @Author:www.itheima.com
+ * @Author:TwistedAlex
  * @Description:Admin业务层接口实现类
  * @Date  0:16
  *****/

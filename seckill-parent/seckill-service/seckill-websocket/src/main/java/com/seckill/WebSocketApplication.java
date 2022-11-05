@@ -9,7 +9,7 @@ import org.springframework.web.socket.server.standard.ServerEndpointExporter;
 import java.io.SerializablePermission;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Description: com.seckill.WebSocketApplication
  ****/
 @SpringBootApplication(exclude = DataSourceAutoConfiguration.class)

@@ -4,7 +4,7 @@ import com.dangdang.ddframe.job.executor.ShardingContexts;
 import com.dangdang.ddframe.job.lite.api.listener.AbstractDistributeOnceElasticJobListener;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Description: com.seckill.goods.task.dynamic.DynamicListener
  ****/
 public class DynamicListener extends AbstractDistributeOnceElasticJobListener {

@@ -3,7 +3,7 @@ import com.seckill.manager.pojo.Admin;
 import tk.mybatis.mapper.common.Mapper;
 
 /****
- * @Author:www.itheima.com
+ * @Author:TwistedAlex
  * @Description:Admin的Dao
  * @Date  0:12
  *****/

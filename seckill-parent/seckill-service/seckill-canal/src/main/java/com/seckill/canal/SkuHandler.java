@@ -12,7 +12,7 @@ import top.javatool.canal.client.annotation.CanalTable;
 import top.javatool.canal.client.handler.EntryHandler;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Description: com.seckill.canal.SkuHandler
  ****/
 @CanalTable(value = "tb_sku")

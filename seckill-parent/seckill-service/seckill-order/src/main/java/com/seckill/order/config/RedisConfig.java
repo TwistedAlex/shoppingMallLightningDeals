@@ -19,7 +19,7 @@ import org.springframework.data.redis.serializer.StringRedisSerializer;
 import java.io.IOException;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Project: seckill
  * @Description: com.seckill.goods.config.RedissonConfig
  ****/

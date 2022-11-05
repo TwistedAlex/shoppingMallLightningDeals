@@ -16,7 +16,7 @@ import java.util.List;
 import java.util.Map;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Project: seckillproject
  * @Description: com.seckill.page.controller.SkuPageController
  ****/

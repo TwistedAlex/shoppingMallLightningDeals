@@ -17,7 +17,7 @@ import org.springframework.data.redis.serializer.Jackson2JsonRedisSerializer;
 import tk.mybatis.spring.annotation.MapperScan;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Project: seckill
  * @Description: com.seckill.GoodsApplication
  ****/

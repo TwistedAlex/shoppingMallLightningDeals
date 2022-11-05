@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.Map;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Project: seckillproject
  * @Description: com.seckill.page.process.BaseProcess
  * 通用生成静态页流程-Configuration

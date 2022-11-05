@@ -17,7 +17,7 @@ import java.util.List;
 import java.util.Set;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Description: com.seckill.monitor.MonitorItemsAccess
  ****/
 @Component

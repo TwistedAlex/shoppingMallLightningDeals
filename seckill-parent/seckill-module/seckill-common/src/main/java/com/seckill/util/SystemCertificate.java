@@ -1,7 +1,7 @@
 package com.seckill.util;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Project: seckill
  * @Description: com.seckill.util.Audience
  ****/

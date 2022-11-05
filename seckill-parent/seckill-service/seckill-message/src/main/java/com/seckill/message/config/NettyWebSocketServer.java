@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Description: com.seckill.message.config.NettyWebSocketServer
  ****/
 @Component

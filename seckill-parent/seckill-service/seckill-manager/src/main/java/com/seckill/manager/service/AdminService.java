@@ -3,7 +3,7 @@ import com.seckill.manager.pojo.Admin;
 import com.github.pagehelper.PageInfo;
 import java.util.List;
 /****
- * @Author:www.itheima.com
+ * @Author:TwistedAlex
  * @Description:Admin业务层接口
  * @Date  0:16
  *****/

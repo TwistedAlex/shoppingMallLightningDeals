@@ -8,7 +8,7 @@ import java.io.File;
 import java.util.Map;
 
 /*****
- * @Author: http://www.itheima.com
+ * @Author: http://TwistedAlex
  * @Project: seckillproject
  * @Description: com.seckill.page.service.impl.SkuPageServiceImpl
  ****/
